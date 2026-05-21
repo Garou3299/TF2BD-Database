@@ -292,6 +292,19 @@
 				"racist"
 			],
 			"last_seen": {
+				"player_name": "Shrigma",
+				"time": 1779387943
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga medic remix\""
+			],
+			"steamid": "[U:1:1015134348]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
 				"player_name": "FOR THE EMPEROR",
 				"time": 1778952603
 			},
@@ -299,6 +312,19 @@
 				"[auto] automatically marked: Racist | reason: \"nigger'\""
 			],
 			"steamid": "[U:1:1052587754]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "susm",
+				"time": 1779384955
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga said nsfw\""
+			],
+			"steamid": "[U:1:1081798019]"
 		},
 		{
 			"attributes": [
@@ -506,6 +532,16 @@
 				"time": 1777654642
 			},
 			"steamid": "[U:1:1841154668]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "there's moonlight on the river",
+				"time": 1779379862
+			},
+			"steamid": "[U:1:1917095902]"
 		}
 	]
 }
