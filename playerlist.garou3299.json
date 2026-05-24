@@ -108,10 +108,11 @@
 			],
 			"last_seen": {
 				"player_name": "Matt Keung",
-				"time": 1777567159
+				"time": 1779643276
 			},
 			"proof": [
-				"[auto] automatically marked: Racist | reason: \"nigger\""
+				"[auto] automatically marked: Racist | reason: \"nigger\"",
+				"[auto] automatically marked: Racist | reason: \"your mum nigger\""
 			],
 			"steamid": "[U:1:248411316]"
 		},
@@ -174,6 +175,19 @@
 				"time": 1778870021
 			},
 			"steamid": "[U:1:351637669]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "CITY WOK",
+				"time": 1779643283
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"NIGGER\""
+			],
+			"steamid": "[U:1:374794996]"
 		},
 		{
 			"attributes": [
@@ -338,6 +352,20 @@
 				"[auto] automatically marked: Racist | reason: \"\u0e37nigger jumpscare\""
 			],
 			"steamid": "[U:1:1049290767]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "SYPHEN",
+				"time": 1779644172
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga listening to cocomelon hardest hits 2026\"",
+				"[auto] automatically marked: Racist | reason: \"can a nigga request a song?\""
+			],
+			"steamid": "[U:1:1049448448]"
 		},
 		{
 			"attributes": [
