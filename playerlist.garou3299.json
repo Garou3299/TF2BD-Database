@@ -214,6 +214,19 @@
 		},
 		{
 			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Saint\u00e9",
+				"time": 1779823406
+			},
+			"proof": [
+				"[auto] automatically marked: Racist | reason: \"nigga said we\""
+			],
+			"steamid": "[U:1:411601479]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -234,6 +247,16 @@
 				"[auto] automatically marked: Racist | reason: \"nigga\""
 			],
 			"steamid": "[U:1:435626544]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "henry",
+				"time": 1779819690
+			},
+			"steamid": "[U:1:447731402]"
 		},
 		{
 			"attributes": [
@@ -516,7 +539,7 @@
 				"time": 1779034277
 			},
 			"proof": [
-				"ESP + Silentaim"
+				"Silent Aim & ESP."
 			],
 			"steamid": "[U:1:1133925084]"
 		},
@@ -696,11 +719,24 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "PHK",
+				"time": 1779825723
+			},
+			"proof": [
+				"Silent Aim & ESP."
+			],
+			"steamid": "[U:1:1588984795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Rere_meddleton",
 				"time": 1779213445
 			},
 			"proof": [
-				"Silentaim on Pyro & ESP."
+				"Silent Aim on Pyro & ESP."
 			],
 			"steamid": "[U:1:1600849126]"
 		},
