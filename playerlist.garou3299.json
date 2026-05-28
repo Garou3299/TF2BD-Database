@@ -3,6 +3,16 @@
 	"players": [
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "signal",
+				"time": 1779991326
+			},
+			"steamid": "[U:1:1730017]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -65,6 +75,26 @@
 				"https://youtu.be/zuKHFjZ0ThU"
 			],
 			"steamid": "[U:1:139991687]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ManSyiz",
+				"time": 1779992044
+			},
+			"steamid": "[U:1:150884981]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "is",
+				"time": 1779988510
+			},
+			"steamid": "[U:1:161716099]"
 		},
 		{
 			"attributes": [
@@ -250,6 +280,16 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "can i heal u",
+				"time": 1779991462
+			},
+			"steamid": "[U:1:372711629]"
+		},
+		{
+			"attributes": [
 				"racist"
 			],
 			"last_seen": {
@@ -260,6 +300,16 @@
 				"[auto] automatically marked: Racist | reason: \"NIGGER\""
 			],
 			"steamid": "[U:1:374794996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Shu",
+				"time": 1779989730
+			},
+			"steamid": "[U:1:393378847]"
 		},
 		{
 			"attributes": [
@@ -335,6 +385,19 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "\u12a0\u1225\u122d \u12d3\u12ed\u1296\u127d \u12eb\u1209",
+				"time": 1779987021
+			},
+			"proof": [
+				"Aimbot & ESP."
+			],
+			"steamid": "[U:1:744603488]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "Ninjaneer",
 				"time": 1778519934
 			},
@@ -349,6 +412,16 @@
 				"time": 1777736175
 			},
 			"steamid": "[U:1:750017613]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cfzl",
+				"time": 1779988136
+			},
+			"steamid": "[U:1:750417829]"
 		},
 		{
 			"attributes": [
@@ -450,6 +523,26 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "EthicalGooner2002 \u2764",
+				"time": 1779991224
+			},
+			"steamid": "[U:1:1001642307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hong Kong Phooey",
+				"time": 1779988928
+			},
+			"steamid": "[U:1:1004585606]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -536,6 +629,16 @@
 				"[auto] automatically marked: Racist | reason: \"nigger'\""
 			],
 			"steamid": "[U:1:1052587754]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zzz",
+				"time": 1779988389
+			},
+			"steamid": "[U:1:1067892869]"
 		},
 		{
 			"attributes": [
@@ -662,6 +765,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Celty",
+				"time": 1779989195
+			},
+			"steamid": "[U:1:1182935927]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "T95/FV420",
 				"time": 1779803690
 			},
@@ -702,6 +815,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "Ladis Washerum",
+				"time": 1779988243
+			},
+			"steamid": "[U:1:1241197639]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": ":)",
 				"time": 1779799311
 			},
@@ -732,6 +855,16 @@
 				"[auto] automatically marked: Racist | reason: \"u are a lucky nigga\""
 			],
 			"steamid": "[U:1:1270168258]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u26055311\u2605",
+				"time": 1779989065
+			},
+			"steamid": "[U:1:1277638619]"
 		},
 		{
 			"attributes": [
@@ -795,6 +928,26 @@
 				"time": 1778686631
 			},
 			"steamid": "[U:1:1443258911]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Fatmagic",
+				"time": 1779990235
+			},
+			"steamid": "[U:1:1486871795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "YT|RehanEsp\u00f8rt\u2692",
+				"time": 1779990677
+			},
+			"steamid": "[U:1:1567297035]"
 		},
 		{
 			"attributes": [
@@ -866,10 +1019,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": ".",
+				"time": 1779989485
+			},
+			"steamid": "[U:1:1608605940]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "ikikm",
 				"time": 1777743393
 			},
 			"steamid": "[U:1:1621356828]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "F\u0e1acker",
+				"time": 1779989319
+			},
+			"steamid": "[U:1:1631072076]"
 		},
 		{
 			"attributes": [
@@ -903,6 +1076,26 @@
 		},
 		{
 			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "lashili",
+				"time": 1779990064
+			},
+			"steamid": "[U:1:1744868426]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Peachfuzz",
+				"time": 1779991955
+			},
+			"steamid": "[U:1:1815439533]"
+		},
+		{
+			"attributes": [
 				"suspicious"
 			],
 			"last_seen": {
@@ -910,6 +1103,36 @@
 				"time": 1777654642
 			},
 			"steamid": "[U:1:1841154668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ":)",
+				"time": 1779989903
+			},
+			"steamid": "[U:1:1846577382]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Llama",
+				"time": 1779991031
+			},
+			"steamid": "[U:1:1901032305]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eurotrash",
+				"time": 1779990395
+			},
+			"steamid": "[U:1:1914757110]"
 		},
 		{
 			"attributes": [
